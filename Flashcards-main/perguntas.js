@@ -40,3 +40,50 @@ criaCartao(
     'Efeito fotoelétrico'
 )
 
+criaCartao(
+    'Biologia',
+    'Normalmente, quantos litros de sangue uma pessoa tem?Em média, quantos são retirados numa doação de sangue?',
+    'Entre 4 a 6 litros. são retirados 450 mililitros'
+)
+
+criaCartao(
+    'Filosofia',
+    'De quem é a famosa frase "Penso, logo existo"?',
+    'Descartes'
+)
+
+criaCartao(
+    'História',
+    'De onde é a invenção do chuveiro elétrico?',
+    'Brasil'
+)
+
+criaCartao(
+    'Geografia',
+    'Quais o menor e maior país do mundo?',
+    'Vaticano e Rússia'
+)
+
+criaCartao(
+    'História',
+    'Qual o nome do presidente do Brasil que ficou conhecido como Jango?',
+    'João Goulart'
+)
+
+criaCartao(
+    'Português',
+    'Qual o grupo em que todas as palavras foram escritas corretamente?',
+    'Asteriscos, beneficente, meteorologia, entretido.'
+)
+
+criaCartao(
+    'História',
+    'Qual o livro mais vendido no mundo a seguir à Bíblia?',
+    'Dom Quixote'
+)
+
+criaCartao(
+    'Matematica',
+    'Quantas casa decimais tem o número pi?',
+    'Infinitas'
+)
