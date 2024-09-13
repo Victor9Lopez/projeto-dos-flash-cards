@@ -87,3 +87,57 @@ criaCartao(
     'Quantas casa decimais tem o número pi?',
     'Infinitas'
 )
+
+criaCartao(
+    'Quimíca',
+    'Atualmente, quantos elementos quimicos a tabela periodica possui?',
+    '118'
+)
+
+criaCartao(
+    'Geografia',
+    'Quais o países que tem a maior e a menor expectativa de vida do mundo?',
+    'Japão e Serra Leoa'
+)
+
+criaCartao(
+    'Ingles',
+    'O que a palavra legend significa em português?',
+    'Lenda'
+)
+
+criaCartao(
+    'Educação Fisíca',
+    'Qual o número de jogadores em cada time numa partida de futebol?',
+    '7'
+)
+
+criaCartao(
+    'História',
+    'Quais a duas datas qe são comemoradas em novembro?',
+    'Proclamação da Republica e Dia Nacional da Consciência Negra'
+)
+
+criaCartao(
+    'Artes',
+    'Quem pintou "Guernica"?',
+    'Pablo Picasso'
+)
+
+criaCartao(
+    'Fisíca',
+    'Quanto tempo a luz do Sol demora para chegar à Terra?',
+    '8 minutos'
+)
+
+criaCartao(
+    'Espanhol',
+    'Qual a tradução da frase "Fabiano cogió su saco antes de salir',
+    'Fabiano pegou o saco antes de sair?'
+)
+
+criaCartao(
+    '',
+    '',
+    ''
+)
